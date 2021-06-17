@@ -15,8 +15,7 @@ on linux_amd64
 + provider registry.terraform.io/hashicorp/azurerm v2.46.0
 ```
 
-still new; the teams has not released a 1.0 version and updates are made frequently; but already
-famous and present in a lot of stacks.
+The First stable version has been release 2 weeks ago, it is brand new and already famous it is used in a lot of stacks.
 
 During this whole subject I advise you to check the help of each command, `terraform --help`, `terraform init --help`...
 
