@@ -8,13 +8,11 @@ To download the binary https://www.terraform.io/downloads.html
 Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage
 hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
 
-The version you are going to use as to be higher than 0.14.8:
+The version you are going to use as to be higher or equal to 1.0.0:
 ```
-Terraform v0.14.8
+Terraform v1.0.0
+on linux_amd64
 + provider registry.terraform.io/hashicorp/azurerm v2.46.0
-
-Your version of Terraform is out of date! The latest version
-is 0.15.5. You can update by downloading from https://www.terraform.io/downloads.html
 ```
 
 still new; the teams has not released a 1.0 version and updates are made frequently; but already
